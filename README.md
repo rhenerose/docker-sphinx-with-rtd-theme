@@ -12,12 +12,12 @@ Custom added packages :
 - fonts-ipafont
 - pandoc
 
-Cunstom added Python modules (in requirements.txt):
+Custom added Python modules:
 
 - sphinx_rtd_theme
-- ipython
 - recommonmark
 - sphinx-markdown-tables
+- ipython
 - nbsphinx
 
 ## How To Use
